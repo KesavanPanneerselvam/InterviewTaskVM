@@ -1,0 +1,9 @@
+# InterviewTaskVM
+
+This repository contains an android app for interview purpose. It implements MVVM architecture with Clean Code Architecture style and using Koin DI, Retrofit, Coroutine, ViewModel, CardView, LiveData and Recyclerview.
+<p align="center">
+  <img src="https://github.com/KesavanPanneerselvam/InterviewTaskCandySpace/blob/master/Screen1.jpeg" width="250"/>
+  <img src="https://github.com/KesavanPanneerselvam/InterviewTaskCandySpace/blob/master/Screen2.jpeg" width="250"/>
+</p>
+<br>
+<br>
